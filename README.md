@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Welcome to my portfolio website!
 
 I'm Arya Vishal Yogeshbhai, a passionate Computer Engineer with a keen interest in data science, machine learning, and web development. This portfolio serves as a showcase of my skills, projects, and experiences in the field of technology.
@@ -17,11 +15,3 @@ I'm constantly striving to grow and evolve as a technologist, and this portfolio
 Thank you for visiting, and I look forward to connecting with you!
 
 Warm regards, Arya Vishal Yogeshbhai
-=======
-# MYCV
-I am bored so i have created a wonderfull CV
->>>>>>> origin/main
-=======
-# MYCV
-I am bored so i have created a wonderfull CV
->>>>>>> 57650d4f556f87cc93eeec7d32a56121c2a7c335
